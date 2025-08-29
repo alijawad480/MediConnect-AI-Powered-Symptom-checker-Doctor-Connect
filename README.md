@@ -19,4 +19,7 @@ MediConnect is a smart healthcare web app that helps users check their symptoms 
 - **Version Control:** Git, GitHub  
 
 ---
+![Medi-1](https://github.com/user-attachments/assets/80862286-19b2-4041-a99d-30a813ed17c4)
+![medi-3](https://github.com/user-attachments/assets/bbee0c34-4a24-47b9-a23d-4b4479c7a59c)
 
+![medi-4](https://github.com/user-attachments/assets/67faf929-9087-4288-b9d9-8e4519ce7d09)
